@@ -16,7 +16,7 @@ config wifi-client 'wifi_client'
 	option key 'radiusdesk'
 
 config settings 'settings'
-	option hardware 'xiaomi_4a_100'
+	option hardware 'xiaomi_4c'
 	option id_if 'eth0'
 	option morse_led '/sys/class/leds/blue:power/brightness'
 	option internet_led '/sys/class/leds/yellow:power/brightness'
