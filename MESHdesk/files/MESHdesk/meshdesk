@@ -1,5 +1,5 @@
 config internet 'internet1'
-	option disabled '0'
+	option disabled '1'
 	option dns '192.168.11.11'
 	option url 'cake4/rd_cake/nodes/get-config-for-node.json'
 	option status_url 'cake4/rd_cake/node-reports/submit_report.json'
